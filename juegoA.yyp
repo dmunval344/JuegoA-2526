@@ -19,7 +19,9 @@
   },
   "name":"juegoA",
   "resources":[
+    {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"players_blue_x2","path":"sprites/players_blue_x2/players_blue_x2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
