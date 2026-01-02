@@ -1,13 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"oPlayer",
+  "%Name":"oFox",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oPlayer",
+  "name":"oFox",
   "overriddenProperties":[],
   "parent":{
     "name":"juegoA",
@@ -32,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"players_blue_x2",
-    "path":"sprites/players_blue_x2/players_blue_x2.yy",
+    "name":"FoxSpace_Walk",
+    "path":"sprites/FoxSpace_Walk/FoxSpace_Walk.yy",
   },
   "spriteMaskId":null,
   "visible":true,

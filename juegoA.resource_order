@@ -1,7 +1,9 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"oFox","order":4,"path":"objects/oFox/oFox.yy",},
     {"name":"oPlayer","order":2,"path":"objects/oPlayer/oPlayer.yy",},
+    {"name":"FoxSpace_Walk","order":3,"path":"sprites/FoxSpace_Walk/FoxSpace_Walk.yy",},
     {"name":"players_blue_x2","order":1,"path":"sprites/players_blue_x2/players_blue_x2.yy",},
   ],
 }
