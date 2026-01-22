@@ -6,8 +6,8 @@
   "name":"OEnemy_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objetos",
-    "path":"folders/Objetos.yy",
+    "name":"enemigo",
+    "path":"folders/Objetos/enemigo.yy",
   },
   "parentObjectId":{
     "name":"Enemy_parent",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Enemy_1",
-    "path":"sprites/Enemy_1/Enemy_1.yy",
+    "name":"SRojo",
+    "path":"sprites/SRojo/SRojo.yy",
   },
   "spriteMaskId":null,
   "visible":true,

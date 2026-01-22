@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oPrueba3",
+  "%Name":"Object4",
   "eventList":[],
   "managed":true,
-  "name":"oPrueba3",
+  "name":"Object4",
   "overriddenProperties":[],
   "parent":{
-    "name":"Proyecto",
-    "path":"Proyecto.yyp",
+    "name":"enemigo",
+    "path":"folders/Objetos/enemigo.yy",
   },
   "parentObjectId":null,
   "persistent":false,
