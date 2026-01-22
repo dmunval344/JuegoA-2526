@@ -11,15 +11,19 @@
   "defaultScriptType":1,
   "Folders":[],
   "ForcedPrefabProjectReferences":[],
-  "IncludedFiles":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"blanco.txt","CopyToMask":-1,"filePath":"datafiles","name":"blanco.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.1.210",
+    "IDEVersion":"2024.14.2.213",
   },
   "name":"Proyecto",
   "resources":[
+    {"id":{"name":"oPrueba3","path":"objects/oPrueba3/oPrueba3.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Ground__34x28_","path":"sprites/Ground__34x28_/Ground__34x28_.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
