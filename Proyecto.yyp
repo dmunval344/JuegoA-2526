@@ -36,6 +36,7 @@
     {"id":{"name":"OBullet","path":"objects/OBullet/OBullet.yy",},},
     {"id":{"name":"OEnemy_1","path":"objects/OEnemy_1/OEnemy_1.yy",},},
     {"id":{"name":"OPlayer","path":"objects/OPlayer/OPlayer.yy",},},
+    {"id":{"name":"OVida","path":"objects/OVida/OVida.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"SBat","path":"sprites/SBat/SBat.yy",},},
     {"id":{"name":"SCuerno","path":"sprites/SCuerno/SCuerno.yy",},},
