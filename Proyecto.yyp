@@ -27,12 +27,13 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.14.2.213",
+    "IDEVersion":"2024.14.3.217",
   },
   "name":"Proyecto",
   "resources":[
     {"id":{"name":"Enemy_parent","path":"objects/Enemy_parent/Enemy_parent.yy",},},
     {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},},
+    {"id":{"name":"OBullet","path":"objects/OBullet/OBullet.yy",},},
     {"id":{"name":"OEnemy_1","path":"objects/OEnemy_1/OEnemy_1.yy",},},
     {"id":{"name":"OPlayer","path":"objects/OPlayer/OPlayer.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
