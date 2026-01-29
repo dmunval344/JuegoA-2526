@@ -10,8 +10,8 @@
   "name":"OBullet",
   "overriddenProperties":[],
   "parent":{
-    "name":"Proyecto",
-    "path":"Proyecto.yyp",
+    "name":"player",
+    "path":"folders/Objetos/player.yy",
   },
   "parentObjectId":null,
   "persistent":false,
