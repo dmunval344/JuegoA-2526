@@ -43,6 +43,7 @@
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Bullet","path":"sprites/Bullet/Bullet.yy",},},
+    {"id":{"name":"Player","path":"sprites/Player/Player.yy",},},
     {"id":{"name":"SBat","path":"sprites/SBat/SBat.yy",},},
     {"id":{"name":"SCuerno","path":"sprites/SCuerno/SCuerno.yy",},},
     {"id":{"name":"SGolem","path":"sprites/SGolem/SGolem.yy",},},
