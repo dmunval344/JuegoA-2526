@@ -33,15 +33,18 @@
   "resources":[
     {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},},
     {"id":{"name":"Enemy_parent","path":"objects/Enemy_parent/Enemy_parent.yy",},},
+    {"id":{"name":"OBcontrols","path":"objects/OBcontrols/OBcontrols.yy",},},
+    {"id":{"name":"OBhelp","path":"objects/OBhelp/OBhelp.yy",},},
     {"id":{"name":"Object4","path":"objects/Object4/Object4.yy",},},
     {"id":{"name":"OBparent","path":"objects/OBparent/OBparent.yy",},},
     {"id":{"name":"OBplay","path":"objects/OBplay/OBplay.yy",},},
+    {"id":{"name":"OBquit","path":"objects/OBquit/OBquit.yy",},},
     {"id":{"name":"OBullet","path":"objects/OBullet/OBullet.yy",},},
     {"id":{"name":"OEnemy_1","path":"objects/OEnemy_1/OEnemy_1.yy",},},
     {"id":{"name":"OPlayer","path":"objects/OPlayer/OPlayer.yy",},},
     {"id":{"name":"OVida","path":"objects/OVida/OVida.yy",},},
+    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Bullet","path":"sprites/Bullet/Bullet.yy",},},
     {"id":{"name":"SBat","path":"sprites/SBat/SBat.yy",},},
     {"id":{"name":"SCuerno","path":"sprites/SCuerno/SCuerno.yy",},},
@@ -56,7 +59,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
