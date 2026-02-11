@@ -52,6 +52,7 @@
     {"id":{"name":"Player","path":"sprites/Player/Player.yy",},},
     {"id":{"name":"SBat","path":"sprites/SBat/SBat.yy",},},
     {"id":{"name":"SCuerno","path":"sprites/SCuerno/SCuerno.yy",},},
+    {"id":{"name":"Sfloor","path":"sprites/Sfloor/Sfloor.yy",},},
     {"id":{"name":"SGolem","path":"sprites/SGolem/SGolem.yy",},},
     {"id":{"name":"SGollux","path":"sprites/SGollux/SGollux.yy",},},
     {"id":{"name":"SNaranja","path":"sprites/SNaranja/SNaranja.yy",},},
