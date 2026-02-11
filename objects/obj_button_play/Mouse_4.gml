@@ -1,5 +1,4 @@
 // Inherit the parent event
 event_inherited();
 
-game_end();
-
+room_goto(rm_game);
