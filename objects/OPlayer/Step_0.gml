@@ -13,25 +13,3 @@ if mouse_check_button_pressed(mb_left) {
 	
 	insShoot.numVX *= numScaleX
 }
-
-if (place_meeting(x, y, obj_portal))
-{
- room_restart();
-}
-
-if (_hor != 0 or _ver != 0)
-{
-    if (_ver > 0) sprite_index = player_walk_down;
-    else if (_ver < 0) sprite_index = player_walk_up;
-    else if (_hor > 0) sprite_index = player_walk_rigt;
-    else if (_hor < 0) sprite_index = player_walk_left;
-    
-    facing = point_direction(0, 0, _hor, _ver);
-}
-else 
-{
-    if (sprite_index == player_walk_rigt) sprite_index = player;
-    else if (sprite_index == player_walk_left) sprite_index = player;
-    else if (sprite_index == player_walk_up) sprite_index = player;
-    else if (sprite_index == player_walk_down) sprite_index = player;
-}
