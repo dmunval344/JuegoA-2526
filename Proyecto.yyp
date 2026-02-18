@@ -14,7 +14,10 @@
     {"$GMFolder":"","%Name":"botones","folderPath":"folders/Objetos/botones.yy","name":"botones","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"enemigo","folderPath":"folders/Objetos/enemigo.yy","name":"enemigo","resourceType":"GMFolder","resourceVersion":"2.0",},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"$GMFolder":"","%Name":"recoger","folderPath":"folders/Objetos/recoger.yy","name":"recoger","resourceType":"GMFolder","resourceVersion":"2.0",},
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     {"$GMFolder":"","%Name":"player","folderPath":"folders/Objetos/player.yy","name":"player","resourceType":"GMFolder","resourceVersion":"2.0",},
