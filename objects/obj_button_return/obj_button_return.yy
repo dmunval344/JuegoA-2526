@@ -37,8 +37,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"boton",
-    "path":"sprites/boton/boton.yy",
+    "name":"SBoton",
+    "path":"sprites/SBoton/SBoton.yy",
   },
   "spriteMaskId":null,
   "visible":true,
