@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite15",
-    "path":"sprites/Sprite15/Sprite15.yy",
+    "name":"Srretroceder",
+    "path":"sprites/Srretroceder/Srretroceder.yy",
   },
   "spriteMaskId":null,
   "visible":true,
